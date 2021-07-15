@@ -1,0 +1,36 @@
+h2 {
+    color: violet;
+}
+
+li > span {
+    background-color: aqua;
+}
+
+.special {
+    background-color: greenyellow;
+}
+
+#html {
+    font-size: 4rem;  /* * 16 */
+}
+
+a:hover {
+    background-color: red;
+}
+
+#wrapper {
+
+}
+
+#wrapper > * {
+    border: 5px solid red;
+}
+
+#box1 {
+    margin: 30px;
+    padding: 50px;
+}
+
+#box2 {
+    padding: 30px;
+}
